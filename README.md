@@ -7,7 +7,7 @@ Get your dancing shoes ready! You are a DJ trying to make sure you are ready for
 ## Project Purpose
 The primary purpose of this project is to underscore the fundamental role of probability and statistics in the toolkit of an ML/AI Engineer. As these fields continue to drive technological advancements, the ability to make informed decisions based on data is not just an advantage; it's a necessity.
 
-### Getting Started [Here](Sampling_distribution.ipynb)
+### Getting Started [Here](Sampling_Distribution.ipynb)
 
 To embark on this journey of learning and dancing, make sure you have the following prerequisites in place:
 
